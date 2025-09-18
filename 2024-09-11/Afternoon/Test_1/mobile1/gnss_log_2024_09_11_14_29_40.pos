@@ -1,0 +1,25 @@
+% program   : RTKPOST ver.2.4.2
+% inp file  : C:\Users\elhamahm\Desktop\Jammertest24\MobilePhones\mobile1_Download2\gnss_log_2024_09_11_14_29_40.24o
+% inp file  : C:\Users\elhamahm\Desktop\Jammertest24\MobilePhones\mobile1_Download2\gnss_log_2024_09_11_14_29_40.24o
+% inp file  : C:\Users\elhamahm\Desktop\Jammertest24\jammertest_git\uBlox\data\data_2024-09-12T085023.nav
+% obs start : 2024/09/11 12:29:47.1 UTC (week2331 304203.1s)
+% obs end   : 2024/09/11 13:50:00.0 UTC (week2331 309016.0s)
+% pos mode  : kinematic
+% freqs     : L1+L2
+% solution  : forward
+% elev mask : 15.0 deg
+% dynamics  : off
+% tidecorr  : off
+% ionos opt : broadcast
+% tropo opt : saastamoinen
+% ephemeris : broadcast
+% navi sys  : gps glonass galileo
+% amb res   : continuous
+% amb glo   : on
+% val thres : 3.0
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+% antenna2  :                       ( 0.0000  0.0000  0.0000)
+% ref pos   : 90.000000000    0.000000000 -6335367.6285
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  UTC                   latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
